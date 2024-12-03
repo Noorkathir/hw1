@@ -26,7 +26,7 @@ void main(){
 
 
 }
-//  //Q1________________________
+//  //Q1______________________
 // int swapNumber(int number) {
 //   if (number == 1) {
 //     return 0;
